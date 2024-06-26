@@ -1,0 +1,41 @@
+{
+    "minesweeper": "Dò mìn",
+    "statistics": "Bảng xếp hạng",
+    "settings": "Cài đặt",
+
+    "about": "Về chúng tôi",
+    "howToPlay": "Cách chơi",
+    "rateUs": "Đánh giá chúng tôi",
+    "share": "Chia sẻ",
+    "shareMessage": "Tôi đã chơi trò chơi Dò mìn. Bạn nên thử trò chơi này! \n\n{}",
+    "selectLanguage": "Chọn ngôn ngữ",
+
+    "version": "Phiên bản {}",
+    "moreGames": "Thêm trò chơi",
+    "developerWebsite": "Website của nhà phát triển",
+    "privacyPolicy": "Chính sách bảo mật",
+
+    "easy": "Dễ",
+    "medium": "Trung bình",
+    "hard": "Khó",
+    "gamesStarted": "Trò chơi bắt đầu",
+    "gamesWon": "Trò chơi thắng",
+    "winRate": "Tỷ lệ thắng",
+    "bestTime": "Thời gian tốt nhất",
+    "averageTime": "Thời gian trung bình",
+    "statisticsError": "Có lỗi xảy ra khi tải thống kê. Vui lòng thử lại sau.",
+
+    "exitGame": "Thoát trò chơi",
+    "exitGameMessage": "Bạn có chắc muốn thoát trò chơi không? Tiến trình của bạn sẽ không được lưu lại.",
+    "yes": "Có",
+    "no": "Không",
+    "skip": "Bỏ qua",
+    "playAgain": "Chơi lại",
+    "tryAgain": "Thử lại",
+
+    "howToPlay1": "Chạm vào một ô để bắt đầu trò chơi.",
+    "howToPlay2": "Mỗi ô sẽ hiển thị số lượng mìn lân cận.",
+    "howToPlay4": "Giữ một ô để đặt cờ.",
+    "howToPlay3": "Nếu bạn chạm vào mìn, trò chơi sẽ kết thúc.",
+    "howToPlay5": "Nếu bạn mở tất cả các ô không có mìn, bạn sẽ thắng trò chơi."
+}
